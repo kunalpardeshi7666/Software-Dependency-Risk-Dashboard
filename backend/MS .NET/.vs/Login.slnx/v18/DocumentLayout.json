@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\model\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\model\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\model\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\model\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\model\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\model\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\model\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\model\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\dto\\verifyotprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\dto\\verifyotprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\model\\magiclink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\model\\magiclink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\services\\emailtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\services\\emailtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|d:\\software-dependency-risk-dashboard\\backend\\ms .net\\login\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CC9E6-50B6-1C14-5BA1-54013BC5B829}|Login\\Login.csproj|solutionrelative:login\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Login\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Login\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:42:00.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Login\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Login\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:11:04.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Model\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Login\\Model\\RefreshToken.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Model\\RefreshToken.cs",
+              "RelativeToolTip": "Login\\Model\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:07:47.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Otp.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Model\\Otp.cs",
+              "RelativeDocumentMoniker": "Login\\Model\\Otp.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Model\\Otp.cs",
+              "RelativeToolTip": "Login\\Model\\Otp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:07:43.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Model\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Login\\Model\\AuthResponse.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Model\\AuthResponse.cs",
+              "RelativeToolTip": "Login\\Model\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:07:38.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VerifyOtpRequest.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\DTO\\VerifyOtpRequest.cs",
+              "RelativeDocumentMoniker": "Login\\DTO\\VerifyOtpRequest.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\DTO\\VerifyOtpRequest.cs",
+              "RelativeToolTip": "Login\\DTO\\VerifyOtpRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:07:34.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Login\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Login\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAuwIAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T17:30:34.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Login\\DTO\\LoginRequest.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "Login\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:07:26.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Login\\Services\\EmailService.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Services\\EmailService.cs",
+              "RelativeToolTip": "Login\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T19:53:57.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Model\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Login\\Model\\RegisterRequest.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Model\\RegisterRequest.cs",
+              "RelativeToolTip": "Login\\Model\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:07:49.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Login\\Data\\AuthDbContext.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "Login\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:11:45.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\DTO\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Login\\DTO\\RegisterRequest.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\DTO\\RegisterRequest.cs",
+              "RelativeToolTip": "Login\\DTO\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:07:30.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Login\\Model\\User.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Model\\User.cs",
+              "RelativeToolTip": "Login\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:03:26.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MagicLink.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Model\\MagicLink.cs",
+              "RelativeDocumentMoniker": "Login\\Model\\MagicLink.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Model\\MagicLink.cs",
+              "RelativeToolTip": "Login\\Model\\MagicLink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:02:50.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmailTemplates.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Services\\EmailTemplates.cs",
+              "RelativeDocumentMoniker": "Login\\Services\\EmailTemplates.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Services\\EmailTemplates.cs",
+              "RelativeToolTip": "Login\\Services\\EmailTemplates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T19:52:07.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Login\\Services\\JwtService.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Services\\JwtService.cs",
+              "RelativeToolTip": "Login\\Services\\JwtService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T17:28:17.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\appsettings.json",
+              "RelativeDocumentMoniker": "Login\\appsettings.json",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\appsettings.json",
+              "RelativeToolTip": "Login\\appsettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-24T17:24:52.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Program.cs",
+              "RelativeDocumentMoniker": "Login\\Program.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\MS .NET\\Login\\Program.cs",
+              "RelativeToolTip": "Login\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAD8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T17:08:51.156Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

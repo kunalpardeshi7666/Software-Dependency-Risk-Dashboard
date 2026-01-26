@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DependencyRiskDashboard/DependencyRiskDashboard.csproj" />
+  <Project Path="FitHub/FitHub.csproj" Id="31b46eee-c022-4a10-a979-5892aa5edbfc" />
+  <Project Path="githubproject/githubproject.csproj" Id="ee9a2320-5db4-4541-9812-fc37249d6b7d" />
+</Solution>

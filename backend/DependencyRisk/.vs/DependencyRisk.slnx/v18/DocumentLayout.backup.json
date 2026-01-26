@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|d:\\software-dependency-risk-dashboard\\backend\\dependencyrisk\\dependencyriskdashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|solutionrelative:dependencyriskdashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|d:\\software-dependency-risk-dashboard\\backend\\dependencyrisk\\dependencyriskdashboard\\controllers\\dependencyanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|solutionrelative:dependencyriskdashboard\\controllers\\dependencyanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|d:\\software-dependency-risk-dashboard\\backend\\dependencyrisk\\dependencyriskdashboard\\services\\githubdependencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|solutionrelative:dependencyriskdashboard\\services\\githubdependencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|d:\\software-dependency-risk-dashboard\\backend\\dependencyrisk\\dependencyriskdashboard\\models\\dependencyanalysisresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|solutionrelative:dependencyriskdashboard\\models\\dependencyanalysisresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|d:\\software-dependency-risk-dashboard\\backend\\dependencyrisk\\dependencyriskdashboard\\models\\packagejsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|solutionrelative:dependencyriskdashboard\\models\\packagejsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|d:\\software-dependency-risk-dashboard\\backend\\dependencyrisk\\dependencyriskdashboard\\controllers\\repositoryanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|solutionrelative:dependencyriskdashboard\\controllers\\repositoryanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|d:\\software-dependency-risk-dashboard\\backend\\dependencyrisk\\dependencyriskdashboard\\services\\githubanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|solutionrelative:dependencyriskdashboard\\services\\githubanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|d:\\software-dependency-risk-dashboard\\backend\\dependencyrisk\\dependencyriskdashboard\\services\\interfaces\\igithubanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|solutionrelative:dependencyriskdashboard\\services\\interfaces\\igithubanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|d:\\software-dependency-risk-dashboard\\backend\\dependencyrisk\\dependencyriskdashboard\\models\\repoanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|solutionrelative:dependencyriskdashboard\\models\\repoanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|d:\\software-dependency-risk-dashboard\\backend\\dependencyrisk\\dependencyriskdashboard\\models\\repourlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|solutionrelative:dependencyriskdashboard\\models\\repourlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|d:\\software-dependency-risk-dashboard\\backend\\dependencyrisk\\dependencyriskdashboard\\models\\repoanalysisrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|solutionrelative:dependencyriskdashboard\\models\\repoanalysisrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|d:\\software-dependency-risk-dashboard\\backend\\dependencyrisk\\dependencyriskdashboard\\dependencyriskdashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|solutionrelative:dependencyriskdashboard\\dependencyriskdashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|d:\\software-dependency-risk-dashboard\\backend\\dependencyrisk\\dependencyriskdashboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7023191-EB14-2B65-CF69-CDEEF5B1DCBD}|DependencyRiskDashboard\\DependencyRiskDashboard.csproj|solutionrelative:dependencyriskdashboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyAnalysisController.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Controllers\\DependencyAnalysisController.cs",
+              "RelativeDocumentMoniker": "DependencyRiskDashboard\\Controllers\\DependencyAnalysisController.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Controllers\\DependencyAnalysisController.cs*",
+              "RelativeToolTip": "DependencyRiskDashboard\\Controllers\\DependencyAnalysisController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T11:22:56.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GitHubDependencyService.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Services\\GitHubDependencyService.cs",
+              "RelativeDocumentMoniker": "DependencyRiskDashboard\\Services\\GitHubDependencyService.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Services\\GitHubDependencyService.cs*",
+              "RelativeToolTip": "DependencyRiskDashboard\\Services\\GitHubDependencyService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T11:21:41.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyAnalysisResponse.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Models\\DependencyAnalysisResponse.cs",
+              "RelativeDocumentMoniker": "DependencyRiskDashboard\\Models\\DependencyAnalysisResponse.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Models\\DependencyAnalysisResponse.cs*",
+              "RelativeToolTip": "DependencyRiskDashboard\\Models\\DependencyAnalysisResponse.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T11:20:22.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PackageJsonResult.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Models\\PackageJsonResult.cs",
+              "RelativeDocumentMoniker": "DependencyRiskDashboard\\Models\\PackageJsonResult.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Models\\PackageJsonResult.cs*",
+              "RelativeToolTip": "DependencyRiskDashboard\\Models\\PackageJsonResult.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T11:19:35.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyRiskDashboard\\Program.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Program.cs*",
+              "RelativeToolTip": "DependencyRiskDashboard\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:25:19.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepoAnalysisResult.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Models\\RepoAnalysisResult.cs",
+              "RelativeDocumentMoniker": "DependencyRiskDashboard\\Models\\RepoAnalysisResult.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Models\\RepoAnalysisResult.cs",
+              "RelativeToolTip": "DependencyRiskDashboard\\Models\\RepoAnalysisResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:22:49.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepoAnalysisRequest.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Models\\RepoAnalysisRequest.cs",
+              "RelativeDocumentMoniker": "DependencyRiskDashboard\\Models\\RepoAnalysisRequest.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Models\\RepoAnalysisRequest.cs",
+              "RelativeToolTip": "DependencyRiskDashboard\\Models\\RepoAnalysisRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:22:35.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GitHubAnalysisService.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Services\\GitHubAnalysisService.cs",
+              "RelativeDocumentMoniker": "DependencyRiskDashboard\\Services\\GitHubAnalysisService.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Services\\GitHubAnalysisService.cs",
+              "RelativeToolTip": "DependencyRiskDashboard\\Services\\GitHubAnalysisService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAewEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:22:11.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGitHubAnalysisService.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Services\\Interfaces\\IGitHubAnalysisService.cs",
+              "RelativeDocumentMoniker": "DependencyRiskDashboard\\Services\\Interfaces\\IGitHubAnalysisService.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Services\\Interfaces\\IGitHubAnalysisService.cs",
+              "RelativeToolTip": "DependencyRiskDashboard\\Services\\Interfaces\\IGitHubAnalysisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:21:54.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryAnalysisController.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Controllers\\RepositoryAnalysisController.cs",
+              "RelativeDocumentMoniker": "DependencyRiskDashboard\\Controllers\\RepositoryAnalysisController.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Controllers\\RepositoryAnalysisController.cs",
+              "RelativeToolTip": "DependencyRiskDashboard\\Controllers\\RepositoryAnalysisController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:20:10.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepoUrlRequest.cs",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Models\\RepoUrlRequest.cs",
+              "RelativeDocumentMoniker": "DependencyRiskDashboard\\Models\\RepoUrlRequest.cs",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\Models\\RepoUrlRequest.cs",
+              "RelativeToolTip": "DependencyRiskDashboard\\Models\\RepoUrlRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:40:10.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyRiskDashboard",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\DependencyRiskDashboard.csproj",
+              "RelativeDocumentMoniker": "DependencyRiskDashboard\\DependencyRiskDashboard.csproj",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\DependencyRiskDashboard.csproj",
+              "RelativeToolTip": "DependencyRiskDashboard\\DependencyRiskDashboard.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T10:19:53.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\appsettings.json",
+              "RelativeDocumentMoniker": "DependencyRiskDashboard\\appsettings.json",
+              "ToolTip": "D:\\Software-Dependency-Risk-Dashboard\\backend\\DependencyRisk\\DependencyRiskDashboard\\appsettings.json",
+              "RelativeToolTip": "DependencyRiskDashboard\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T10:25:53.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

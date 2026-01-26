@@ -1,0 +1,6 @@
+@DependencyRiskDashboard_HostAddress = http://localhost:5053
+
+GET {{DependencyRiskDashboard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
