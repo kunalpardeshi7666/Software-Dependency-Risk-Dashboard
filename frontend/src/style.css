@@ -1,0 +1,99 @@
+/* ===== Global ===== */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #f4f6f9;
+  color: #333;
+}
+
+/* ===== Page Wrapper ===== */
+.page {
+  padding: 20px;
+}
+
+/* ===== Header ===== */
+.header {
+  background-color: #1e293b;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+/* ===== Card ===== */
+.card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  margin-bottom: 20px;
+}
+
+/* ===== Form ===== */
+.form-group {
+  margin-bottom: 15px;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+button {
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1e40af;
+}
+
+/* ===== Table ===== */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #e5e7eb;
+}
+
+th,
+td {
+  padding: 12px;
+  text-align: left;
+}
+
+tr:nth-child(even) {
+  background-color: #f9fafb;
+}
+
+/* ===== Risk Colors ===== */
+.risk-high {
+  color: #dc2626;
+  font-weight: bold;
+}
+
+.risk-medium {
+  color: #ca8a04;
+  font-weight: bold;
+}
+
+.risk-low {
+  color: #16a34a;
+  font-weight: bold;
+}
