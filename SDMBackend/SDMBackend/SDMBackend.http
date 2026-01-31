@@ -1,0 +1,6 @@
+@SDMBackend_HostAddress = http://localhost:5098
+
+GET {{SDMBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

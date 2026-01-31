@@ -1,0 +1,617 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SDMBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AA418F-E465-4C8C-BCA1-AB548A54EBBD}|ConsoleApp1\\ConsoleApp1.csproj|d:\\sdmbackend\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AA418F-E465-4C8C-BCA1-AB548A54EBBD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\migrations\\20260130062738_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\migrations\\20260130062738_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SDMBackend\\SDMBackend\\Migrations\\20260130061649_InitialMySqlUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SDMBackend\\Migrations\\20260130061649_InitialMySqlUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\models\\dependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\models\\dependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\models\\moduletechnology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\models\\moduletechnology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\models\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\models\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\models\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\models\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\controllers\\dependenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\controllers\\dependenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\controllers\\developerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\controllers\\developerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\controllers\\technologiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\controllers\\technologiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\dtos\\registerdeveloperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\dtos\\registerdeveloperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\controllers\\modulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\controllers\\modulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\controllers\\moduletechnologiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\controllers\\moduletechnologiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\dtos\\technologydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\dtos\\technologydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\dtos\\developerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\dtos\\developerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\dtos\\dependencydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\dtos\\dependencydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\dtos\\moduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\dtos\\moduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\dtos\\moduletechnologydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\dtos\\moduletechnologydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|d:\\sdmbackend\\sdmbackend\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ABB92F-0C6B-4E23-99E6-6B7B5011B7AA}|SDMBackend\\SDMBackend.csproj|solutionrelative:sdmbackend\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SDMBackend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T21:01:01.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\DAL\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SDMBackend\\DAL\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:55:53.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "SDMBackend\\appsettings.json",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\appsettings.json",
+              "RelativeToolTip": "SDMBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-28T17:46:04.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260130061649_InitialMySqlUpdate.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Migrations\\20260130061649_InitialMySqlUpdate.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Migrations\\20260130061649_InitialMySqlUpdate.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Migrations\\20260130061649_InitialMySqlUpdate.cs",
+              "RelativeToolTip": "SDMBackend\\Migrations\\20260130061649_InitialMySqlUpdate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:16:49.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Module.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Models\\Module.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Models\\Module.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Models\\Module.cs",
+              "RelativeToolTip": "SDMBackend\\Models\\Module.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:44:04.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Program.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Program.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Program.cs",
+              "RelativeToolTip": "SDMBackend\\Program.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAAOIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T18:33:37.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ModuleTechnology.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Models\\ModuleTechnology.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Models\\ModuleTechnology.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Models\\ModuleTechnology.cs",
+              "RelativeToolTip": "SDMBackend\\Models\\ModuleTechnology.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:46:21.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Models\\User.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Models\\User.cs",
+              "RelativeToolTip": "SDMBackend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:41:43.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\SDMBackend\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T19:18:13.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SDMBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T18:21:59.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260130062738_InitialCreate.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Migrations\\20260130062738_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Migrations\\20260130062738_InitialCreate.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Migrations\\20260130062738_InitialCreate.cs",
+              "RelativeToolTip": "SDMBackend\\Migrations\\20260130062738_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:27:38.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Controllers\\ProjectsController.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "SDMBackend\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:33:53.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Models\\Developer.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Models\\Developer.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Models\\Developer.cs",
+              "RelativeToolTip": "SDMBackend\\Models\\Developer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:43:38.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskEntity.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Models\\TaskEntity.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Models\\TaskEntity.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Models\\TaskEntity.cs",
+              "RelativeToolTip": "SDMBackend\\Models\\TaskEntity.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA4wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:45:11.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dependency.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Models\\Dependency.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Models\\Dependency.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Models\\Dependency.cs",
+              "RelativeToolTip": "SDMBackend\\Models\\Dependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:45:33.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Models\\Project.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Models\\Project.cs",
+              "RelativeToolTip": "SDMBackend\\Models\\Project.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:44:42.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Technology.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Models\\Technology.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Models\\Technology.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Models\\Technology.cs",
+              "RelativeToolTip": "SDMBackend\\Models\\Technology.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:45:50.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DependenciesController.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Controllers\\DependenciesController.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Controllers\\DependenciesController.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Controllers\\DependenciesController.cs",
+              "RelativeToolTip": "SDMBackend\\Controllers\\DependenciesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:37:23.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Controllers\\TasksController.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "SDMBackend\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:35:30.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DevelopersController.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Controllers\\DevelopersController.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Controllers\\DevelopersController.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Controllers\\DevelopersController.cs",
+              "RelativeToolTip": "SDMBackend\\Controllers\\DevelopersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwEEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:28:01.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "SDMBackend\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:24:15.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "SDMBackend\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:26:53.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterDeveloperDTO.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\DTOs\\RegisterDeveloperDTO.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\DTOs\\RegisterDeveloperDTO.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\DTOs\\RegisterDeveloperDTO.cs",
+              "RelativeToolTip": "SDMBackend\\DTOs\\RegisterDeveloperDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T18:53:15.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TechnologiesController.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Controllers\\TechnologiesController.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Controllers\\TechnologiesController.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Controllers\\TechnologiesController.cs",
+              "RelativeToolTip": "SDMBackend\\Controllers\\TechnologiesController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:36:06.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ModulesController.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Controllers\\ModulesController.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Controllers\\ModulesController.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Controllers\\ModulesController.cs",
+              "RelativeToolTip": "SDMBackend\\Controllers\\ModulesController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAnwGEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:34:47.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ModuleTechnologiesController.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Controllers\\ModuleTechnologiesController.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Controllers\\ModuleTechnologiesController.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Controllers\\ModuleTechnologiesController.cs",
+              "RelativeToolTip": "SDMBackend\\Controllers\\ModuleTechnologiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:36:41.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TechnologyDTO.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\DTOs\\TechnologyDTO.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\DTOs\\TechnologyDTO.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\DTOs\\TechnologyDTO.cs",
+              "RelativeToolTip": "SDMBackend\\DTOs\\TechnologyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:25:44.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProjectDTO.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\DTOs\\ProjectDTO.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\DTOs\\ProjectDTO.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\DTOs\\ProjectDTO.cs",
+              "RelativeToolTip": "SDMBackend\\DTOs\\ProjectDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:24:54.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "SDMBackend\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T18:19:02.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "SDMBackend\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T18:23:08.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DeveloperDTO.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\DTOs\\DeveloperDTO.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\DTOs\\DeveloperDTO.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\DTOs\\DeveloperDTO.cs",
+              "RelativeToolTip": "SDMBackend\\DTOs\\DeveloperDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:24:31.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DependencyDTO.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\DTOs\\DependencyDTO.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\DTOs\\DependencyDTO.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\DTOs\\DependencyDTO.cs",
+              "RelativeToolTip": "SDMBackend\\DTOs\\DependencyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:26:21.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SDMBackend\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SDMBackend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-28T18:34:45.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ModuleTechnologyDTO.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\DTOs\\ModuleTechnologyDTO.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\DTOs\\ModuleTechnologyDTO.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\DTOs\\ModuleTechnologyDTO.cs",
+              "RelativeToolTip": "SDMBackend\\DTOs\\ModuleTechnologyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:26:04.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ModuleDTO.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\DTOs\\ModuleDTO.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\DTOs\\ModuleDTO.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\DTOs\\ModuleDTO.cs",
+              "RelativeToolTip": "SDMBackend\\DTOs\\ModuleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:25:11.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SDMBackend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:29:37.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "D:\\SDMBackend\\SDMBackend\\DTOs\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "SDMBackend\\DTOs\\TaskDTO.cs",
+              "ToolTip": "D:\\SDMBackend\\SDMBackend\\DTOs\\TaskDTO.cs",
+              "RelativeToolTip": "SDMBackend\\DTOs\\TaskDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:25:27.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
