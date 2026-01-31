@@ -1,0 +1,1307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\controllers\\developerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\controllers\\developerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\projects\\projectupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\projects\\projectupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\projects\\projectcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\projects\\projectcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\projects\\projectreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\projects\\projectreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\githubanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\githubanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\githubdependencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\githubdependencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\controllers\\dependencyanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\controllers\\dependencyanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\packagejsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\packagejsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\dependencyanalysisrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\dependencyanalysisrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\dependencyanalysisresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\dependencyanalysisresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\dependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\dependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\dependencypackagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\dependencypackagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\dependencyanalysisresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\dependencyanalysisresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\dependencyanalysishistorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\dependencyanalysishistorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\updateprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\updateprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\updateprojectmemberroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\updateprojectmemberroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\iservices\\igithubdependencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\iservices\\igithubdependencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\iservices\\igithubanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\iservices\\igithubanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\controllers\\dependenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\controllers\\dependenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\admin\\adminregisterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\admin\\adminregisterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\admin\\setuseractiverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\admin\\setuseractiverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\admin\\changeuserrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\admin\\changeuserrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dependencysystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dependencysystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\controllers\\technologiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\controllers\\technologiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\controllers\\modulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\controllers\\modulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\verifyemailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\verifyemailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\controllers\\dependencyanalysishistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\controllers\\dependencyanalysishistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\projectstakeholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\projectstakeholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\dependencyscanrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\dependencyscanrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\controllers\\dependencyscancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\controllers\\dependencyscancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\dependencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\dependencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\iservices\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\iservices\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\iservices\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\iservices\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\iservices\\iotprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\iservices\\iotprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\iservices\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\iservices\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\iservices\\idependencyscanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\iservices\\idependencyscanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\repourlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\repourlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\repoanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\repoanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\repoanalysisrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\repoanalysisrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\dependencypackageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\dependencypackageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\dependencygraphedge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\dependencygraphedge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\model\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\model\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\scanrunsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\scanrunsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\riskseveritycountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\riskseveritycountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\graphnodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\graphnodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\graphedgeviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\graphedgeviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\dependencygraphdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\dependencygraphdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\createscanrundto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\createscanrundto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dtos\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dtos\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dal\\otpverificationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dal\\otpverificationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\controllers\\dependencygraphcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\controllers\\dependencygraphcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\dependencysystem.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\dependencysystem.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\repositories\\otprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\repositories\\otprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|c:\\users\\yuvraj b. rathod\\onedrive\\desktop\\software-dependency-risk-dashboard\\api\\dependencysystem.api\\dependencysystem.api\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3105DFB-8DC6-048A-1483-803B65560A4A}|DependencySystem.API\\DependencySystem.API.csproj|solutionrelative:dependencysystem.api\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "DependencySystem.API\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:46:45.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GitHubDependencyService.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\GitHubDependencyService.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\GitHubDependencyService.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\GitHubDependencyService.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\GitHubDependencyService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAowG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:30:32.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyAnalysisController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\DependencyAnalysisController.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Controllers\\DependencyAnalysisController.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\DependencyAnalysisController.cs",
+              "RelativeToolTip": "DependencySystem.API\\Controllers\\DependencyAnalysisController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:02:52.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Program.cs",
+              "RelativeToolTip": "DependencySystem.API\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:40:41.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DevelopersController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\DevelopersController.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Controllers\\DevelopersController.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\DevelopersController.cs",
+              "RelativeToolTip": "DependencySystem.API\\Controllers\\DevelopersController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:46:02.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\projects\\ProjectCreateDto.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\projects\\ProjectCreateDto.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\projects\\ProjectCreateDto.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\projects\\ProjectCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T05:11:27.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\Developer.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\Developer.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\Developer.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\Developer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T07:43:50.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\projects\\ProjectReadDto.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\projects\\ProjectReadDto.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\projects\\ProjectReadDto.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\projects\\ProjectReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T05:10:52.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\projects\\ProjectUpdateDto.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\projects\\ProjectUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\projects\\ProjectUpdateDto.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\projects\\ProjectUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T05:11:58.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GitHubAnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\GitHubAnalysisService.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\GitHubAnalysisService.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\GitHubAnalysisService.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\GitHubAnalysisService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:28:26.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "DependencySystem.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\appsettings.json",
+              "RelativeToolTip": "DependencySystem.API\\appsettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-29T20:40:50.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\Project.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\Project.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\Project.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\Project.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T21:51:47.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyAnalysisRun.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\DependencyAnalysisRun.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\DependencyAnalysisRun.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\DependencyAnalysisRun.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\DependencyAnalysisRun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:23:42.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DependencyAnalysisResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\DependencyAnalysisResponse.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\DependencyAnalysisResponse.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\DependencyAnalysisResponse.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\DependencyAnalysisResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:22:22.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dependency.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\Dependency.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\Dependency.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\Dependency.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\Dependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:22:39.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DependencyPackageDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\DependencyPackageDto.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\DependencyPackageDto.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\DependencyPackageDto.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\DependencyPackageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:19:59.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PackageJsonResult.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\PackageJsonResult.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\PackageJsonResult.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\PackageJsonResult.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\PackageJsonResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:06:25.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DependencyAnalysisResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\DependencyAnalysisResultDto.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\DependencyAnalysisResultDto.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\DependencyAnalysisResultDto.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\DependencyAnalysisResultDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:19:33.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyAnalysisHistoryDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\DependencyAnalysisHistoryDtos.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\DependencyAnalysisHistoryDtos.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\DependencyAnalysisHistoryDtos.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\DependencyAnalysisHistoryDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:19:24.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateProjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\UpdateProjectDto.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\UpdateProjectDto.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\UpdateProjectDto.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\UpdateProjectDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:21:17.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateProjectMemberRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\UpdateProjectMemberRoleDto.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\UpdateProjectMemberRoleDto.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\UpdateProjectMemberRoleDto.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\UpdateProjectMemberRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:21:35.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IGitHubDependencyService.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IGitHubDependencyService.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\IServices\\IGitHubDependencyService.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IGitHubDependencyService.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\IServices\\IGitHubDependencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:27:01.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGitHubAnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IGitHubAnalysisService.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\IServices\\IGitHubAnalysisService.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IGitHubAnalysisService.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\IServices\\IGitHubAnalysisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:26:28.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:47:01.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DependencySystem.API\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T22:56:40.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DependencySystem.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:02:16.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DependenciesController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\DependenciesController.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Controllers\\DependenciesController.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\DependenciesController.cs",
+              "RelativeToolTip": "DependencySystem.API\\Controllers\\DependenciesController.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAQwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:45:57.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DAL\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DependencySystem.API\\DAL\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:46:39.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "DependencySystem.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwDwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:02:58.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAAcwE4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:46:55.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminRegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\Admin\\AdminRegisterRequest.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\Admin\\AdminRegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\Admin\\AdminRegisterRequest.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\Admin\\AdminRegisterRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:06:04.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ChangeUserRoleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\Admin\\ChangeUserRoleRequest.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\Admin\\ChangeUserRoleRequest.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\Admin\\ChangeUserRoleRequest.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\Admin\\ChangeUserRoleRequest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:06:39.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SetUserActiveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\Admin\\SetUserActiveRequest.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\Admin\\SetUserActiveRequest.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\Admin\\SetUserActiveRequest.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\Admin\\SetUserActiveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:07:19.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DependencySystem.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DependencySystem.API.csproj",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DependencySystem.API.csproj",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DependencySystem.API.csproj",
+              "RelativeToolTip": "DependencySystem.API\\DependencySystem.API.csproj",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T20:41:41.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\RegisterRequest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:20:48.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TechnologiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\TechnologiesController.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Controllers\\TechnologiesController.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\TechnologiesController.cs",
+              "RelativeToolTip": "DependencySystem.API\\Controllers\\TechnologiesController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAYwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:46:48.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "DependencySystem.API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:46:53.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ModulesController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\ModulesController.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Controllers\\ModulesController.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\ModulesController.cs",
+              "RelativeToolTip": "DependencySystem.API\\Controllers\\ModulesController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:46:03.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "VerifyEmailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\VerifyEmailRequest.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\VerifyEmailRequest.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\VerifyEmailRequest.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\VerifyEmailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:22:05.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DependencyAnalysisHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\DependencyAnalysisHistoryController.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Controllers\\DependencyAnalysisHistoryController.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\DependencyAnalysisHistoryController.cs",
+              "RelativeToolTip": "DependencySystem.API\\Controllers\\DependencyAnalysisHistoryController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAIwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:04:00.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\RefreshToken.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:08:08.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProjectStakeholder.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\ProjectStakeholder.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\ProjectStakeholder.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\ProjectStakeholder.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\ProjectStakeholder.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA6wBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:08:00.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\ProjectManager.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\ProjectManager.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\ProjectManager.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\ProjectManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA6wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:07:49.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DependencyScanController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\DependencyScanController.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Controllers\\DependencyScanController.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\DependencyScanController.cs",
+              "RelativeToolTip": "DependencySystem.API\\Controllers\\DependencyScanController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:05:31.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\ApplicationUser.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:23:04.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DependencyScanRun.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\DependencyScanRun.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\DependencyScanRun.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\DependencyScanRun.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\DependencyScanRun.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA6wBYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:24:43.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IOtpService.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IOtpService.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\IServices\\IOtpService.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IOtpService.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\IServices\\IOtpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:27:50.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IRefreshTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\IServices\\IRefreshTokenRepository.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IRefreshTokenRepository.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\IServices\\IRefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:27:53.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OtpService.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\OtpService.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\OtpService.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\OtpService.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\OtpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:31:46.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IOtpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IOtpRepository.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\IServices\\IOtpRepository.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IOtpRepository.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\IServices\\IOtpRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:27:44.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DependencyService.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\DependencyService.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\DependencyService.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\DependencyService.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\DependencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:46:59.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\EmailService.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T03:15:03.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IEmailService.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\IServices\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IEmailService.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\IServices\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:26:23.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IDependencyScanService.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IDependencyScanService.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\IServices\\IDependencyScanService.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IDependencyScanService.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\IServices\\IDependencyScanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:26:10.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IAuthService.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Services\\IServices\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Services\\IServices\\IAuthService.cs",
+              "RelativeToolTip": "DependencySystem.API\\Services\\IServices\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:26:01.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TaskEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\TaskEntity.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\TaskEntity.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\TaskEntity.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\TaskEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:25:43.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\RolePermission.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\RolePermission.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\RolePermission.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\RolePermission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:25:26.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RepoUrlRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\RepoUrlRequest.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\RepoUrlRequest.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\RepoUrlRequest.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\RepoUrlRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:25:19.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RepoAnalysisResult.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\RepoAnalysisResult.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\RepoAnalysisResult.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\RepoAnalysisResult.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\RepoAnalysisResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:25:11.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RepoAnalysisRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\RepoAnalysisRequest.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\RepoAnalysisRequest.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\RepoAnalysisRequest.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\RepoAnalysisRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:24:58.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DependencyPackageItem.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\DependencyPackageItem.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\DependencyPackageItem.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\DependencyPackageItem.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\DependencyPackageItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:24:19.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DependencyGraphEdge.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\DependencyGraphEdge.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\DependencyGraphEdge.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\DependencyGraphEdge.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\DependencyGraphEdge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:23:53.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Model\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Model\\AuthResponse.cs",
+              "RelativeToolTip": "DependencySystem.API\\Model\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:22:52.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ScanRunSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\ScanRunSummaryDto.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\ScanRunSummaryDto.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\ScanRunSummaryDto.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\ScanRunSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:21:09.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RiskSeverityCountDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\RiskSeverityCountDto.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\RiskSeverityCountDto.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\RiskSeverityCountDto.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\RiskSeverityCountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:20:58.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\ResetPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\ResetPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:20:53.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "RefreshTokenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\RefreshTokenRequest.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\RefreshTokenRequest.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\RefreshTokenRequest.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\RefreshTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:20:45.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\LoginResponse.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:20:38.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:20:33.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "GraphNodeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\GraphNodeDto.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\GraphNodeDto.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\GraphNodeDto.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\GraphNodeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:20:26.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GraphEdgeViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\GraphEdgeViewDto.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\GraphEdgeViewDto.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\GraphEdgeViewDto.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\GraphEdgeViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:20:16.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ForgotPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\ForgotPasswordRequest.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\ForgotPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\ForgotPasswordRequest.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\ForgotPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:20:09.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "DependencyGraphDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\DependencyGraphDto.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\DependencyGraphDto.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\DependencyGraphDto.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\DependencyGraphDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:19:46.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CreateScanRunDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\CreateScanRunDto.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\CreateScanRunDto.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\CreateScanRunDto.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\CreateScanRunDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:19:15.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DTOs\\ChangePasswordRequest.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DTOs\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "DependencySystem.API\\DTOs\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:17:42.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "OtpVerificationConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DAL\\OtpVerificationConfig.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DAL\\OtpVerificationConfig.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DAL\\OtpVerificationConfig.cs",
+              "RelativeToolTip": "DependencySystem.API\\DAL\\OtpVerificationConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:16:06.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "DependencyGraphController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\DependencyGraphController.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Controllers\\DependencyGraphController.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Controllers\\DependencyGraphController.cs",
+              "RelativeToolTip": "DependencySystem.API\\Controllers\\DependencyGraphController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T21:09:26.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "DependencySystem.API.http",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DependencySystem.API.http",
+              "RelativeDocumentMoniker": "DependencySystem.API\\DependencySystem.API.http",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\DependencySystem.API.http",
+              "RelativeToolTip": "DependencySystem.API\\DependencySystem.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-30T03:33:37.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "OtpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Repositories\\OtpRepository.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Repositories\\OtpRepository.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Repositories\\OtpRepository.cs",
+              "RelativeToolTip": "DependencySystem.API\\Repositories\\OtpRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:46:57.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "RefreshTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "DependencySystem.API\\Repositories\\RefreshTokenRepository.cs",
+              "ToolTip": "C:\\Users\\Yuvraj B. Rathod\\OneDrive\\Desktop\\Software-Dependency-Risk-Dashboard\\API\\DependencySystem.API\\DependencySystem.API\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeToolTip": "DependencySystem.API\\Repositories\\RefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:46:50.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -43,7 +43,7 @@ export default function Login() {
   };
 
   return (
-    <AuthCard title="Welcome back 👋" subtitle="Login to continue">
+    <AuthCard title="Welcome back " subtitle="Login to continue">
       <form onSubmit={submit}>
         <label style={label}>Email</label>
         <input
