@@ -11,11 +11,20 @@ export default function DeveloperDashboard() {
   const myProjects = [
     { name: "Dependency Risk Dashboard", status: "Active", risk: "High" },
     { name: "Hotel Booking System", status: "Draft", risk: "Medium" },
+      { name: "Hotel Booking System", status: "Draft", risk: "Medium" },
+        { name: "Hotel Booking System", status: "Draft", risk: "Medium" },
+          { name: "Hotel Booking System", status: "Draft", risk: "Medium" },
+            { name: "Hotel Booking System", status: "Draft", risk: "Medium" },
+              { name: "Hotel Booking System", status: "Draft", risk: "Medium" },
   ];
 
   const tasks = [
     { title: "Fix refresh token issue", status: "InProgress" },
     { title: "Implement scan upload UI", status: "Pending" },
+    { title: "Module dependency mapping", status: "Pending" },
+    { title: "Module dependency mapping", status: "Pending" },
+    { title: "Module dependency mapping", status: "Pending" },
+    { title: "Module dependency mapping", status: "Pending" },
     { title: "Module dependency mapping", status: "Pending" },
   ];
 

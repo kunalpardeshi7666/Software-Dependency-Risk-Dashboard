@@ -11,9 +11,14 @@ export default function Sidebar() {
   { label: "Projects", path: "/projects", roles: ["Admin", "Developer", "Tester"] },
   { label: "Modules", path: "/modules", roles: ["Admin", "Developer"] },
   { label: "Tasks", path: "/tasks", roles: ["Developer"] },
+ { label: "Developers", path: "/developers", roles: ["Admin", "Developer", "Tester"] },
 
   // ✅ NEW
-  { label: "Developers", path: "/developers", roles: ["Admin", "Developer"] },
+  // { label: "Developers not fix", path: "/developers", roles: ["Admin", "Developer"] },
+{ label: "Developers manage", path: "/developers/manage", roles: ["Admin", "Developer"] },
+// { label: "Developers dashboard", path: "/developers/dashboard", roles: ["Admin", "Developer"] },
+// { label: "Tester dashboard", path: "/tester/dashboard", roles: ["Admin", "Tester"] },
+
 
   { label: "Dependencies", path: "/dependencies", roles: ["Admin", "Developer", "Tester"] },
   { label: "Dependency Graph", path: "/dependency-graph", roles: ["Admin", "Developer", "Tester"] },

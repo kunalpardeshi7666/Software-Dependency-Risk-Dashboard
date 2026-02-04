@@ -7,13 +7,15 @@ import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
 
 import { AuthProvider } from "./context/AuthContext";
-import { ProjectProvider } from "./context/ProjectProvider";
+import { ProjectProvider } from "./context/ProjectContext";
+
 import { DrawerProvider } from "./context/DrawerContext";
 
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 import AriaLiveRegion from "./compoents/aria/AriaLiveRegion";
+import Modules from "./pages/modules/Modules";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
@@ -30,6 +32,7 @@ root.render(
         </ProjectProvider>
       </AuthProvider>
     </BrowserRouter>
+   
   </React.StrictMode>
 );
 

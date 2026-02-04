@@ -176,7 +176,7 @@ using (var scope = app.Services.CreateScope())
     }
 
     // Create admin user if it doesn't exist
-    var adminEmail = "yuvrajrathod8390@gmail.com";
+    var adminEmail = "admin@gmail.com";
     var adminPassword = "Admin@123";
 
     var adminUser = await userManager.FindByEmailAsync(adminEmail);
@@ -198,9 +198,34 @@ using (var scope = app.Services.CreateScope())
 
         if (createResult.Succeeded)
             await userManager.AddToRolesAsync(newAdmin, new[] { "Admin", "User" });
+        foreach (var role in roles)
+        {
+            if (!await roleManager.RoleExistsAsync(role))
+            {
+                await roleManager.CreateAsync(new IdentityRole(role));
+            }
+        }
     }
 }
 
+
+// ==========================
+// Seed Roles
+// ==========================
+//using (var scope = app.Services.CreateScope())
+//{
+//    var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+
+//    string[] roles = { "Admin", "Developer", "User", "Tester" };
+
+//    foreach (var role in roles)
+//    {
+//        if (!await roleManager.RoleExistsAsync(role))
+//        {
+//            await roleManager.CreateAsync(new IdentityRole(role));
+//        }
+//    }
+//}
 // =====================================================
 // MIDDLEWARE PIPELINE
 // =====================================================

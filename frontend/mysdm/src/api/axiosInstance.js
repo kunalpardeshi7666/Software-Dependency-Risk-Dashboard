@@ -103,7 +103,10 @@ export const api = axios.create({
 // ✅ Automatically attach token in every request
 api.interceptors.request.use(
   (config) => {
-    const token = localStorage.getItem("token"); // ✅ must match your saved key
+    // const token = localStorage.getItem("token"); // ✅ must match your saved key
+     const token = localStorage.getItem("accessToken");
+
+    // localStorage.setItem("accessToken", authResponse.accessToken);
 
     if (token) {
       config.headers.Authorization = `Bearer ${token}`;

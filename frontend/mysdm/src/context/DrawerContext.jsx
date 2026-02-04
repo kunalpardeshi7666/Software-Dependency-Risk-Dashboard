@@ -17,3 +17,8 @@ export function DrawerProvider({ children }) {
 }
 
 export const useDrawer = () => useContext(DrawerContext);
+// export function useDrawer() {
+//   const ctx = useContext(DrawerContext);
+//   if (!ctx) throw new Error("useDrawer must be used inside <DrawerProvider>");
+//   return ctx;
+// }

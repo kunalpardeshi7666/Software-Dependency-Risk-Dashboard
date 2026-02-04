@@ -3,7 +3,7 @@ import { projectApi } from "../api/projectApi";
 
 const ProjectContext = createContext(null);
 
-export function ProjectProvider({ children }) {
+export function ProjectProviders({ children }) {
   const [projects, setProjects] = useState([]);
   const [currentProject, setCurrentProject] = useState(null);
 

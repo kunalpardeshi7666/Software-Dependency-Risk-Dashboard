@@ -1,5 +1,5 @@
 
-import {useProject} from "../../context/ProjectProvider"
+import {useProject} from "../../context/ProjectContext"
 export default function ProjectSwitcher() {
   const { projects, currentProject, setCurrentProject, loadingProjects } = useProject();
 

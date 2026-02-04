@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DependencySystem.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+219c7b36f2c079fa992aa34d0fec9e0aa269eb1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f08f76e9006a723234d38ed649bf6881fdae01d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("DependencySystem.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DependencySystem.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

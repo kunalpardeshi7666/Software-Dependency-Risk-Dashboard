@@ -1,14 +1,14 @@
+// src/routes/AppRoutes.jsx
 import { Routes, Route } from "react-router-dom";
 
 /* Layout */
-// import Layout from "../components/layout/Layout";
 import Layout from "../compoents/layout/Layout";
+
 /* Guards */
 import ProtectedRoute from "./ProtectedRoute";
 import PublicRoute from "./PublicRoute";
 import RoleRoute from "./RoleRoute";
-// import DevelopersPage from "../pages/developers/DevelopersPage";
-import DeveloperDashboard from "../pages/developers/DeveloperDashboard";  
+
 /* Auth Pages */
 import Login from "../pages/login/Login";
 import Register from "../pages/login/Register";
@@ -19,21 +19,27 @@ import ResetPassword from "../pages/login/ResetPassword";
 /* Core Pages */
 import Dashboard from "../pages/dashboard/Dashboard";
 import Projects from "../pages/projects/Projects";
-import Modules from "../pages/modules/Modules";
-import Tasks from "../pages/tasks/Tasks";
 import ProjectDetails from "../pages/projects/ProjectDetails";
 
-/* Dependency Pages */
+import Tasks from "../pages/tasks/Tasks";
+
+/* Developers */
+import Developers from "../pages/developers/Developers";
+import DeveloperDashboard from "../pages/developers/DeveloperDashboard";
+import DevelopersPage from "../pages/developers/DevelopersPage";
+import DeveloperForm from "../pages/developers/DeveloperForm";
+
+/* Dependencies */
 import Dependencies from "../pages/dependencies/Dependencies";
 import DependencyDetail from "../pages/dependencies/DependencyDetail";
 import DependencyGraph from "../pages/dependencies/DependencyGraph";
 
-/* Scan Pages */
-import ScanDashboard from "../pages/scans/ScanDashboard";
-import UploadScan from "../pages/scans/UploadScan";
-import ScanDetail from "../pages/scans/ScanDetail";
+/* Scans */
+import ScanDashboard from "../pages/gitscans/ScanDashboard";
+import UploadScan from "../pages/gitscans/UploadScan";
+import ScanDetail from "../pages/gitscans/ScanDetail";
 
-/* History Pages */
+/* History */
 import ScanHistory from "../pages/history/ScanHistory";
 import ScanDetails from "../pages/history/ScanDetails";
 import OutdatedPackages from "../pages/history/OutdatedPackages";
@@ -45,6 +51,8 @@ import RolePermissions from "../pages/admin/RolePermissions";
 import AuditLogs from "../pages/audit/AuditLogs";
 import Reports from "../pages/reports/Reports";
 
+
+import Modules from "../pages/modules/Modules"
 /* User */
 import Profile from "../pages/profile/Profile";
 import Settings from "../pages/settings/Settings";
@@ -53,12 +61,18 @@ import Notifications from "../pages/notifications/Notifications";
 /* Errors */
 import Forbidden from "../pages/errors/Forbidden";
 import NotFound from "../pages/errors/NotFound";
+//  Team 
+import Team from "../pages/team/Team";
+import TeamDetails from "../pages/team/TeamDetails";
+import TeamProfiles from "../pages/team/TeamProfiles";
+import ProjectsPage from "../pages/projects/ProjectsPage";
 
 export default function AppRoutes() {
   return (
     <Routes>
       {/* ✅ Public Routes (only before login) */}
       <Route element={<PublicRoute />}>
+      
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
         <Route path="/verify-email" element={<VerifyEmail />} />
@@ -77,18 +91,22 @@ export default function AppRoutes() {
           <Route path="/notifications" element={<Notifications />} />
 
           {/* Projects */}
-          <Route path="/projects" element={<Projects />} />
+          <Route path="/projects" element={<ProjectsPage />} />
           <Route path="/projects/:id" element={<ProjectDetails />} />
-
+{/* Team */}
+  <Route path="/team" element={<Team />} />
+<Route path="/team/:id" element={<TeamDetails />} />
+<Route path="/team/profiles" element={<TeamProfiles />} />
           {/* Modules */}
-          <Route
-            path="/modules"
-            element={
-              <RoleRoute roles={["Admin", "Developer"]}>
-                <Modules />
-              </RoleRoute>
-            }
-          />
+         <Route
+  path="/modules"
+  element={
+    <RoleRoute roles={["Admin", "Developer", "Tester"]}>
+      <Modules />
+    </RoleRoute>
+  }
+/>
+
 
           {/* Tasks */}
           <Route
@@ -105,16 +123,61 @@ export default function AppRoutes() {
           <Route path="/dependencies/:name" element={<DependencyDetail />} />
           <Route path="/dependency-graph" element={<DependencyGraph />} />
 
+          {/* Developers */}
+          <Route element={<ProtectedRoute />}>
+  <Route >
+    <Route path="/" element={<Dashboard />} />
+    <Route path="/developers" element={<Developers />} />
+  </Route>
+</Route>
+
+          {/* <Route
+  path="/developers"
+  element={
+    <RoleRoute roles={["Admin", "Developer", "Tester"]}>
+      <Developers />
+    </RoleRoute>
+  }
+/> */}
+
+          <Route
+            path="/developers/dashboard"
+            element={
+              <RoleRoute roles={["Admin", "Developer"]}>
+                <DeveloperDashboard />
+              </RoleRoute>
+            }
+          />
+          <Route
+            path="/developers/form"
+            element={
+              <RoleRoute roles={["Admin", "Developer"]}>
+                <DeveloperForm />
+              </RoleRoute>
+            }
+          />
+          <Route
+            path="/developers/manage"
+            element={
+              <RoleRoute roles={["Admin", "Developer"]}>
+                <DevelopersPage />
+              </RoleRoute>
+            }
+          />
+
           {/* Scans */}
           <Route path="/scan-dashboard" element={<ScanDashboard />} />
           <Route path="/upload-scan" element={<UploadScan />} />
           <Route path="/scan/:scanId" element={<ScanDetail />} />
-<Route path="/developers" element={<DeveloperDashboard />} />
+
           {/* History */}
           <Route path="/history" element={<ScanHistory />} />
           <Route path="/history/:runId" element={<ScanDetails />} />
           <Route path="/history/:runId/outdated" element={<OutdatedPackages />} />
-          <Route path="/history/:runId/vulnerabilities" element={<Vulnerabilities />} />
+          <Route
+            path="/history/:runId/vulnerabilities"
+            element={<Vulnerabilities />}
+          />
 
           {/* Admin */}
           <Route
@@ -125,7 +188,6 @@ export default function AppRoutes() {
               </RoleRoute>
             }
           />
-
           <Route
             path="/role-permissions"
             element={
@@ -134,7 +196,6 @@ export default function AppRoutes() {
               </RoleRoute>
             }
           />
-
           <Route
             path="/settings"
             element={
@@ -143,7 +204,6 @@ export default function AppRoutes() {
               </RoleRoute>
             }
           />
-
           <Route
             path="/reports"
             element={
@@ -152,15 +212,6 @@ export default function AppRoutes() {
               </RoleRoute>
             }
           />
-          <Route
-  path="/developers"
-  element={
-    <RoleRoute roles={["Admin", "Developer"]}>
-      <DeveloperDashboard />
-    </RoleRoute>
-  }
-/>
-
 
           {/* Audit */}
           <Route path="/audit" element={<AuditLogs />} />

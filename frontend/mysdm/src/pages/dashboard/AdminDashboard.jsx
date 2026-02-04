@@ -33,6 +33,13 @@ export default function AdminDashboard() {
 
   return (
     <div className="space-y-6">
+      <button
+  onClick={() => navigate("/admin")}
+  className="bg-gray-900 text-white px-4 py-2 rounded"
+>
+  Go to Admin Panel →
+</button>
+
       <div>
         <h2 className="text-xl font-bold">Admin Dashboard</h2>
         <p className="text-sm text-gray-600">

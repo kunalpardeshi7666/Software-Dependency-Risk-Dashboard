@@ -325,3 +325,4 @@ function EditProjectModal({ project, onSave }) {
     </>
   );
 }
+
